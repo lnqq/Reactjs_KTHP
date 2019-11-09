@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "name": "Váy Công Sở Nữ",
+      "price": "1020000",
+      "trangthai": "Mới",
+      "GiaKM": "12300",
+      "Image": "/images/b119n-dea2256-oht1-1-.jpg",
+      "mota": "Hàng công sở chất lượng cao",
+      "loaiquanao": "Thời trang nữ",
+      "status": true,
+      "quantity": "5",
+      "id": 1
+    },
+    {
+      "name": "Đồ công sở Nam Hàng Châu",
+      "price": "200000",
+      "trangthai": "Mới",
+      "GiaKM": "180000",
+      "Image": "/images/3.jpg",
+      "mota": "Loại cổ áo: Cổ tròn. Phong cách trẻ trung. Chất vải: Polyester. Thiết kế: Vạt bầu, Xẻ giữa, Túi mổ, Áo 2 lớp.",
+      "loaiquanao": "Thời trang nam",
+      "status": true,
+      "quantity": "15",
+      "id": 2
+    },
+    {
+      "name": "Váy in họa tiết Vanny",
+      "price": "350000",
+      "trangthai": "Khuyến mãi",
+      "GiaKM": "300000",
+      "Image": "/images/eede72c1711e4e3e1b6c789f1f3ef724.jpg",
+      "mota": "Vải mềm, không gây cọ xát da. Phù hợp với lứa tuổi 20-35. Tạo cảm giác thoải mái , không gây gò bó.",
+      "loaiquanao": "Thời trang nữ",
+      "status": true,
+      "quantity": "10",
+      "id": 3
+    },
+    {
+      "name": "Đồ bộ công sở Vanxy ",
+      "price": "850000",
+      "trangthai": "Khuyến mãi",
+      "GiaKM": "750000",
+      "Image": "/images/4.jpg",
+      "mota": "Hàng âu chất lượng cao, phong cách thời thượng. Gây ấn tượng mạnh.",
+      "loaiquanao": "Thời trang nam",
+      "status": true,
+      "quantity": "15",
+      "id": 4
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "tendm": "Thời Trang Nam"
+    },
+    {
+      "id": 2,
+      "tendm": "Thời Trang Nữ"
+    }
+  ]
+}
